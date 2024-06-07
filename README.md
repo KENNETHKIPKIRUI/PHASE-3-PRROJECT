@@ -35,7 +35,7 @@ I did Univariate , Bivariate and Multaviriate analysis to provide a comprehensiv
 
                              Uvivariate Analysis   
 
-    ![Target variable](image-2.png)
+    ![Target variable](![alt text](image-4.png))
 
 
 From the graph depicted above, it can be observed that approximately 483 customers out of the total 3333 in the dataset have terminated their contracts with the telecommunication company.
