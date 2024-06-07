@@ -41,3 +41,9 @@ I did Univariate , Bivariate and Multaviriate analysis to provide a comprehensiv
 
 From the graph depicted above, it can be observed that approximately 483 customers out of the total 3333 in the dataset have terminated their contracts with the telecommunication company.
 I also came up with histogram illustrating the distribution of all numerical features, revealing that the majority of features exhibit a curve resembling a normal distribution.
+
+                            Bivariate Analysis
+
+After analyzing two features to investigate their relationship and understand how changes in each feature influence the other, I examined the boxplot below. From this visualization, I can infer that the majority of customers who have terminated their contracts belong to the area codes 415 and 510.
+                 
+                 ![alt text](image-6.png)
