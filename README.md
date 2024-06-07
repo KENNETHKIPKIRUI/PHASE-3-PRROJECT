@@ -8,6 +8,7 @@ This binary classification project focuses on conducting a churn analysis for Sy
 
 
                               Goal of the project
+                            
 
 The goal is to create a machine learning model capable of predicting the likelihood of a customer discontinuing a service, as well as identifying the factors contributing to this churn.
 
